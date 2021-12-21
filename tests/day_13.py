@@ -26,7 +26,7 @@ INPUT = [
 ]
 
 
-class Day04Case(unittest.TestCase):
+class Day13Case(unittest.TestCase):
     def test_part_one(self):
         self.assertEqual(17, part_one(INPUT))
 
